@@ -6,3 +6,7 @@ Repositório para a prática de git e github
 ```bash
 git clone <url_repositorio_remoto>
 ```
+
+```bash
+git push
+```
